@@ -1,0 +1,3 @@
+[submodule "BigTranslate"]
+	path = BigTranslate
+	url = https://github.com/JKSenthil/BigTranslate.git
